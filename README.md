@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/g4mbh817hooa5jfo/branch/main?svg=true)](https://ci.appveyor.com/project/Kelavo/postmanecho/branch/main)
